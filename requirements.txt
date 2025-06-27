@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+pillow
+huggingface-hub
+streamlit-option-menu
